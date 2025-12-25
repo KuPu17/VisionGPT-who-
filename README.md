@@ -1,2 +1,2 @@
 # VisionGPT-who-
-Enables you to do crazyy things with your camera
+Lets you to do crazyy things with your camera
