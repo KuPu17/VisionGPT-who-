@@ -1,2 +1,2 @@
-# VISION-GPT-who?
-Lets you do crazyy with your cam
+# VisionGPT-who-
+Lets you to do crazyy things with your camera
